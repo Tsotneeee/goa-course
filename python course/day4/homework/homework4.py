@@ -7,4 +7,3 @@ print("you are " + name + surname,  "your age is " + age )
 
 
 
-
